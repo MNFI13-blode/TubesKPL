@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHOcfa5algTUbMNHbrIgkzrY2PGLo+s3mrVnn+QhC8Hujir0QVLPHyRlu/dmQEkjq3ReaEvVN9AKwsVyzEVcNg==",
+  "success": true,
+  "projectFilePath": "D:\\vscode\\C#\\TubesKPL\\TubesKPL\\TubesKPL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

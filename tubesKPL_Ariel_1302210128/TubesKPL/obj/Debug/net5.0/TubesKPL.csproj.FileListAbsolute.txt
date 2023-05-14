@@ -1,0 +1,16 @@
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.exe
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.deps.json
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.runtimeconfig.json
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.runtimeconfig.dev.json
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.dll
+D:\vscode\C#\TubesKPL\TubesKPL\bin\Debug\net5.0\TubesKPL.pdb
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.csproj.AssemblyReference.cache
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.AssemblyInfoInputs.cache
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.AssemblyInfo.cs
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.csproj.CoreCompileInputs.cache
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.dll
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\ref\TubesKPL.dll
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.pdb
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\TubesKPL.genruntimeconfig.cache
+D:\vscode\C#\TubesKPL\TubesKPL\obj\Debug\net5.0\refint\TubesKPL.dll
