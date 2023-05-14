@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\bin\Debug\net6.0\login3.exe
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\bin\Debug\net6.0\login3.deps.json
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\bin\Debug\net6.0\login3.runtimeconfig.json
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\bin\Debug\net6.0\login3.dll
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\bin\Debug\net6.0\login3.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.AssemblyInfo.cs
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.dll
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\refint\login3.dll
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.pdb
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\login3.genruntimeconfig.cache
+C:\Users\User\Dropbox\PC\Documents\semester 4\kpl\login3\login3\obj\Debug\net6.0\ref\login3.dll
