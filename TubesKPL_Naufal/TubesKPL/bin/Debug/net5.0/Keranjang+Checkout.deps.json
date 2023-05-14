@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Keranjang+Checkout/1.0.0": {
+        "dependencies": {
+          "Matematika": "1.0.0"
+        },
+        "runtime": {
+          "Keranjang+Checkout.dll": {}
+        }
+      },
+      "Matematika/1.0.0": {
+        "runtime": {
+          "Matematika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Keranjang+Checkout/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matematika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

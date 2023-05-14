@@ -1,0 +1,30 @@
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.deps.json
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.dll
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.pdb
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.AssemblyReference.cache
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfoInputs.cache
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfo.cs
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.dll
+C:\Users\A S U S\source\repos\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.pdb
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.dll
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.pdb
+D:\DataBaru\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.deps.json
+D:\DataBaru\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.dll
+D:\DataBaru\TubesKPL\Matematika\bin\Debug\netstandard2.1\Matematika.pdb
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.AssemblyReference.cache
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfoInputs.cache
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfo.cs
+D:\DataBaru\TubesKPL\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.CoreCompileInputs.cache
+D:\Data KPL\TubesKPL_Naufal\Matematika\bin\Debug\netstandard2.1\Matematika.deps.json
+D:\Data KPL\TubesKPL_Naufal\Matematika\bin\Debug\netstandard2.1\Matematika.dll
+D:\Data KPL\TubesKPL_Naufal\Matematika\bin\Debug\netstandard2.1\Matematika.pdb
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.AssemblyReference.cache
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfoInputs.cache
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.AssemblyInfo.cs
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.csproj.CoreCompileInputs.cache
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.dll
+D:\Data KPL\TubesKPL_Naufal\Matematika\obj\Debug\netstandard2.1\Matematika.pdb
