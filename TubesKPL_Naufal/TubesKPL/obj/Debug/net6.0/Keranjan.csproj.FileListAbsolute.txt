@@ -1,0 +1,54 @@
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.exe
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.deps.json
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.runtimeconfig.json
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.dll
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.pdb
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Matematika.dll
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\bin\Debug\net6.0\Matematika.pdb
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.AssemblyReference.cache
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfoInputs.cache
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfo.cs
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CopyComplete
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.dll
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\refint\Keranjan.dll
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.pdb
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.genruntimeconfig.cache
+C:\Users\A S U S\source\repos\TubesKPL\TubesKPL\obj\Debug\net6.0\ref\Keranjan.dll
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.dll
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\refint\Keranjan.dll
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.pdb
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.exe
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.deps.json
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.runtimeconfig.json
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.dll
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Keranjan.pdb
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Matematika.dll
+D:\DataBaru\TubesKPL\TubesKPL\bin\Debug\net6.0\Matematika.pdb
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.AssemblyReference.cache
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfoInputs.cache
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfo.cs
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CoreCompileInputs.cache
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CopyComplete
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\Keranjan.genruntimeconfig.cache
+D:\DataBaru\TubesKPL\TubesKPL\obj\Debug\net6.0\ref\Keranjan.dll
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Keranjan.exe
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Keranjan.deps.json
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Keranjan.runtimeconfig.json
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Keranjan.dll
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Keranjan.pdb
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Matematika.dll
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\bin\Debug\net6.0\Matematika.pdb
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.AssemblyReference.cache
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfoInputs.cache
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.AssemblyInfo.cs
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CoreCompileInputs.cache
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.csproj.CopyComplete
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.dll
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\refint\Keranjan.dll
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.pdb
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\Keranjan.genruntimeconfig.cache
+D:\Data KPL\TubesKPL_Naufal\TubesKPL\obj\Debug\net6.0\ref\Keranjan.dll
